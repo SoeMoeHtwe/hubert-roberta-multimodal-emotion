@@ -1,6 +1,6 @@
-# Improving Multimodal Speech Emotion Recognition with Gating Mechanism on HuBERT and RoBERTa Representations
-
 <div align="center">
+
+# Improving Multimodal Speech Emotion Recognition with Gating Mechanism on HuBERT and RoBERTa Representations
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
