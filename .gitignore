@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results_hubert_roberta_gating/
+*.pt
+*.pth
+.env
