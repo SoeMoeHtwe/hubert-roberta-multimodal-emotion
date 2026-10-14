@@ -28,3 +28,13 @@ conda activate emo_env
 
 # Install requirements
 pip install -r requirements.txt
+```
+
+---
+
+# 🗂️ Dataset
+This code has been developed for the MSP-Podcast corpus. Access to the dataset requires a special permission. Therefore, we provide sample ```.csv``` files which show the format compatible with our code.
+
+---
+
+This code has been adapted from [here](https://github.com/msplabresearch/MSP-Podcast_Challenge_IS2025).
